@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: projects notepad
+tags: user projects notepad star_express_dx
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
