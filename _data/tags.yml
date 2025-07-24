@@ -1,8 +1,8 @@
-tag1:
+user:
   name: user
-tag2:
+projects:
   name: projects
-tag3:
+notepad:
   name: notepad
-tag4:
+star_express_dx:
   name: star_express_dx
