@@ -1,8 +1,12 @@
 user:
   name: user
+  
 projects:
   name: projects
+  
 notepad:
   name: notepad
+  
 star-express-dx:
   name: star-express-dx
+  
