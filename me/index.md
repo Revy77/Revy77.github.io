@@ -7,4 +7,4 @@ LOVE : FUN FUN
 CONTACT  
 Dial XXX-XXXX-XXXX  
 MAIL yyy@ymail.com  
-ADRESS zzz  
+ADRESS ZZZ  
