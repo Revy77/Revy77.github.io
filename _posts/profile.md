@@ -10,7 +10,7 @@ User Name : REVY
 DATE OF BIRTH : APRILL 2nd  
 LOVE : FUN FUN   
 
-CONTACT  
+CONTACT   
 Dial XXX-XXXX-XXXX  
 MAIL yyy@ymail.com  
 ADRESS zzz  
