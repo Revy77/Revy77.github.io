@@ -6,5 +6,5 @@
 
     CONTACT  
     Dial XXX-XXXX-XXXX  
-    MAIL yyy@ymail.com  
-    ADRESS ZZZ  
+    MAIL YYY@ymail.com  
+    ADRESS ZZZ
